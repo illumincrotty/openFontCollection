@@ -1,2 +1,3 @@
-# openFontCollection
-My collection of open source fonts
+# Open Font Collection
+
+A collection of open source fonts, all licensed under OFL.
